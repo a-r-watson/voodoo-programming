@@ -1,2 +1,0 @@
-# voodoo-programming
-voodoo-programming
